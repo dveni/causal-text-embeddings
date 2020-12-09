@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BERT_BASE_DIR=../../bert/pre-trained/uncased_L-12_H-768_A-12
+BERT_BASE_DIR=bert/pre-trained/uncased_L-12_H-768_A-12
 DATA_FILE=../dat/PeerRead/proc/arxiv-all.tf_record
 OUTPUT_DIR=../output/PeerRead/local_test
 #INIT_DIR=../../output/unsupervised_PeerRead_embeddings/
